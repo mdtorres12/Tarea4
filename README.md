@@ -43,6 +43,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 VIDEO
 
+https://youtu.be/W6mzleGTn0U
+
 CONCLUSIONES
 
 Los circuitos serie-paralelos son ucho más utiles ya que estos se pueden emplear en diversas áreas de la ingeniería
